@@ -1,0 +1,24 @@
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes.dex : \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/R$attr.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/R$xml.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/R$string.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/R$drawable.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/BuildConfig.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/R.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/moserver/mmcomp/com/MoServer.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/org/systronik/tcpserver/TCPServer$ClientServiceThread.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/org/systronik/tcpserver/TCPServer$1.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/org/systronik/tcpserver/TCPServer.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/tlantic/plugins/socket/SocketPlugin.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/tlantic/plugins/socket/Connection.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/tlantic/plugins/socket/SocketPlugin$1.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/WebServer.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd$2.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/NanoHTTPD$HTTPSession.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/NanoHTTPD.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd$1.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/NanoHTTPD$Response.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/AndroidFile.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/NanoHTTPD$1.class \
+/home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/dexedLibs/classes-b04dbd85909a4e6051eb3157f39a1098.jar \

@@ -1,0 +1,60 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Socket\"><param name=\"android-package\" value=\"com.tlantic.plugins.socket.SocketPlugin\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"TCPServer\"><param name=\"android-package\" value=\"org.systronik.tcpserver.TCPServer\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"CorHttpd\"><param name=\"android-package\" value=\"com.rjfun.cordova.httpd.CorHttpd\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/manifest": [
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.INTERNET\" />",
+                            "count": 1
+                        }
+                    ],
+                    "/*": [
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.INTERNET\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.tlantic.plugins.socket": {
+            "PACKAGE_NAME": "moserver.mmcomp.com"
+        },
+        "org.systronik.tcpserver": {
+            "PACKAGE_NAME": "moserver.mmcomp.com"
+        },
+        "com.rjfun.cordova.httpd": {
+            "PACKAGE_NAME": "moserver.mmcomp.com"
+        }
+    },
+    "dependent_plugins": {}
+}
