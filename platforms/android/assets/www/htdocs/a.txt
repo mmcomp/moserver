@@ -1,7 +1,7 @@
 {
 	"mehrdad":{
 		"ghool" : true,
-		"hashari: : 0
+		"hashari" : 0
 	},
 	"hamed" : [
 		1,5,6,7,8

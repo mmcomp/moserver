@@ -48,9 +48,7 @@
 /home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/plugins/com.tlantic.plugins.socket/www/socket.js \
 /home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/htdocs/a.txt \
 /home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/htdocs/index.html \
-/home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/js/index.js \
 /home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/js/socket.io-1.0.3.js \
-/home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/js/tcp.js \
 /home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/css/index.css \
 /home/mehrdad/cordova_prj/moserver/platforms/android/assets/www/img/logo.png \
 /home/mehrdad/cordova_prj/moserver/platforms/android/ant-build/AndroidManifest.xml \
